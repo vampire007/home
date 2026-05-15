@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1778857681967",
+    "prompt": "近期特朗普访华的目的",
+    "responses": [
+      {
+        "platform": "doubao",
+        "success": true,
+        "content": "【豆包回答】\n\n你好！这是豆包对\"近期特朗普访华的目的\"的回复。\n\n作为字节跳动的AI助手，我会尽力提供准确和有用的信息。",
+        "timestamp": 1778857679641
+      },
+      {
+        "platform": "deepseek",
+        "success": true,
+        "content": "【Deepseek回答】\n\n关于\"近期特朗普访华的目的\"，我来为你解答：\n\nDeepseek 专注于提供深度思考和专业的回答。",
+        "timestamp": 1778857679641
+      },
+      {
+        "platform": "qianwen",
+        "success": true,
+        "content": "【千问回答】\n\n收到你的问题：近期特朗普访华的目的\n\n千问是阿里云开发的大模型，我会帮你分析这个问题。",
+        "timestamp": 1778857679641
+      },
+      {
+        "platform": "wenxin",
+        "success": true,
+        "content": "【文心一言回答】\n\n你问得很好！关于\"近期特朗普访华的目的\"，我的看法是：\n\n文心一言是百度的AI产品，在中文理解方面有优势。",
+        "timestamp": 1778857679641
+      }
+    ],
+    "timestamp": 1778857681967
+  },
+  {
+    "id": "1778857663077",
+    "prompt": "近期特朗普访华的目的",
+    "responses": [
+      {
+        "platform": "doubao",
+        "success": true,
+        "content": "【豆包回答】\n\n你好！这是豆包对\"近期特朗普访华的目的\"的回复。\n\n作为字节跳动的AI助手，我会尽力提供准确和有用的信息。",
+        "timestamp": 1778857660261
+      },
+      {
+        "platform": "deepseek",
+        "success": true,
+        "content": "【Deepseek回答】\n\n关于\"近期特朗普访华的目的\"，我来为你解答：\n\nDeepseek 专注于提供深度思考和专业的回答。",
+        "timestamp": 1778857660261
+      },
+      {
+        "platform": "qianwen",
+        "success": true,
+        "content": "【千问回答】\n\n收到你的问题：近期特朗普访华的目的\n\n千问是阿里云开发的大模型，我会帮你分析这个问题。",
+        "timestamp": 1778857660261
+      },
+      {
+        "platform": "wenxin",
+        "success": true,
+        "content": "【文心一言回答】\n\n你问得很好！关于\"近期特朗普访华的目的\"，我的看法是：\n\n文心一言是百度的AI产品，在中文理解方面有优势。",
+        "timestamp": 1778857660261
+      }
+    ],
+    "timestamp": 1778857663077
+  },
+  {
+    "id": "1778857626124",
+    "prompt": "你是啥模型",
+    "responses": [
+      {
+        "platform": "doubao",
+        "success": true,
+        "content": "【豆包回答】\n\n你好！这是豆包对\"你是啥模型\"的回复。\n\n作为字节跳动的AI助手，我会尽力提供准确和有用的信息。",
+        "timestamp": 1778857623283
+      },
+      {
+        "platform": "deepseek",
+        "success": true,
+        "content": "【Deepseek回答】\n\n关于\"你是啥模型\"，我来为你解答：\n\nDeepseek 专注于提供深度思考和专业的回答。",
+        "timestamp": 1778857623283
+      },
+      {
+        "platform": "qianwen",
+        "success": true,
+        "content": "【千问回答】\n\n收到你的问题：你是啥模型\n\n千问是阿里云开发的大模型，我会帮你分析这个问题。",
+        "timestamp": 1778857623283
+      },
+      {
+        "platform": "wenxin",
+        "success": true,
+        "content": "【文心一言回答】\n\n你问得很好！关于\"你是啥模型\"，我的看法是：\n\n文心一言是百度的AI产品，在中文理解方面有优势。",
+        "timestamp": 1778857623283
+      }
+    ],
+    "timestamp": 1778857626124
+  }
+]
